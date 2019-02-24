@@ -200,6 +200,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 120%;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2296,8 +2297,9 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			margin: 0 0 3em 0;
-			width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
 		}
 
 			.image.featured img {
@@ -2739,7 +2741,7 @@ input, select, textarea {
 				-ms-flex-grow: 1;
 				flex-grow: 1;
 				-ms-flex: 1;
-				padding: 3.75em 3em 3.3em 3em;
+				padding: 1em 1em 1em 1em;
 			}
 
 				.post > header .title h2 {
