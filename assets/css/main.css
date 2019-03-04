@@ -2299,6 +2299,7 @@ input, select, textarea {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
+			margin-bottom: 1%
 			width: 50%;
 		}
 
